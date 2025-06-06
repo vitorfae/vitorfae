@@ -5,13 +5,13 @@
 # <div align="center">Olá, Meu nome é Vitor Matheus Faé Ulrich</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitorfae/" target="_blank">
+  <a href="https://www.linkedin.com/vitorfae/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;
-  <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM/" target="_blank">
+  <a href="https://www.instagram.com/vitor_fae_ulrich/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:vitorfaeulrich@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>&nbsp;
   <a href="https://discord.gg/SEU_CONVITE_DISCORD" target="_blank">
