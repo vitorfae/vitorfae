@@ -14,7 +14,7 @@
 
 
 
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfae&show_icons=true&theme=dark)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfae&show_icons=true&theme=dark)
 
 ## Gráfico de Contribuições
 
