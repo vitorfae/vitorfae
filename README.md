@@ -18,7 +18,7 @@
 
 ## Gráfico de Contribuições
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorfae&bg_color=000000&color=ffffff&line=d586c0&point=46b31e&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)
+[![Ashutosh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorfae&bg_color=000000&color=ffffff&line=d586c0&point=46b31e&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 # Ferramentas utilizadas nos projetos do perfil
 
