@@ -23,7 +23,7 @@
 # Ferramentas utilizadas nos projetos do perfil
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfae&layout=compact&langs_count=16&theme"dark")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfae&layout=compact&langs_count=16&theme"dark")]
 
 ## Tecnologias em que estou estudando
 
